@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://HolotunNikita18 github.io/my-site/sitemap.xml
